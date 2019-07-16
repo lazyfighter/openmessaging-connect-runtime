@@ -222,6 +222,13 @@
             <artifactId>openmessaging-api</artifactId>
             <version>0.3.1-alpha</version>
         </dependency>
+
+
+        <dependency>
+            <groupId>io.openmessaging</groupId>
+            <artifactId>odar-mysql-connector</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
